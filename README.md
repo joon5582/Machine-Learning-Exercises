@@ -1,4 +1,4 @@
 # Machine-Learning-Exercises
-Coursera Machine Learning lecture by Stanford Univ.
+Coursera Machine Learning assignments by Stanford Univ.
 
 All the codes are written by me
